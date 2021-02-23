@@ -1,0 +1,147 @@
+body{ color: #eb9605; 
+  text-align:centre;
+}
+a:link{text-decoration: none;
+  color:rgb(235, 21, 21);}
+a:local-link{text-decoration: none;
+color: #f3f3f3;}
+h2{ color: chocolate;
+   text-align: center;
+  }
+
+hr{color:red;}
+
+.button{background-color:#06a814;
+    border:solid aquamarine;
+    width: 100px;
+    }
+    .wee{color: #f3f3f3;
+       background-color: salmon;
+      border-radius: 10%;
+    }
+
+    .ln{ color: rgb(216, 216, 216);
+       background-color: salmon;
+      }
+
+    body {
+       background-color:rgb(10, 20, 22);
+    }
+
+    h1 {color:white;text-align: center;
+    }
+    p {
+      font-family: verdana font-size 30px;
+    }
+    .container {
+      margin-left: 18px;
+      margin-top: 50px;
+      color: red;
+    }
+    .btn{
+           background-color:green;
+            border:none;
+            width: 100px;
+            padding:13px;
+            border-radius: 10px;
+            color:#fff;
+            font-weight:bold;
+          }
+    img {
+      margin-left: 0% 
+    }
+    a{
+      color: wheat ;
+             text-decoration-color: yellow; 
+            }
+      a:hover{color: #eb9605;
+      text-decoration: underline red;}
+      a:visited{color:lawngreen;}
+      a:active{color: lightcoral;}
+    .cancelbtn{
+      background-color: midnightblue; 
+      width: 100px;
+    }
+    #cna{border:royalblue solid;
+         background-color:bisque;
+        width: 100px;
+       border-radius: 00%;
+       
+    }
+    .tel{ 
+           color: rgb(216, 216, 216);
+          background-color: salmon;
+      }
+
+    #form{ text-align: center;
+       background-color: rgb(158, 157, 157);
+        position: absolute; 
+        left: 500px; 
+        right: 600px;
+       } 
+
+    .background { 
+      text-align: center;
+        position: absolute;
+        top: 70px;
+        left: 550px;
+        right: 550px;
+        bottom: 0;
+        animation: bg-animation 10s infinite;
+      }
+      
+      @-webkit-keyframes bg-animation {
+        0% {
+          background-color: red;
+        }
+        15% {
+          background-color: yellow;
+        }
+        30% {
+          background-color: green;
+        }
+        45% {
+          background-color: blue;
+        }
+        60% {
+          background-color: purple;
+        }
+        75% {
+          background-color: pink;
+        }
+        90% {
+          background-color: brown;
+        }
+        100% {
+          background-color: red;
+        }
+      }
+      
+      @keyframes bg-animation {
+        0% {
+          background-color: red;
+        }
+        15% {
+          background-color: yellow;
+        }
+        30% {
+          background-color: green;
+        }
+        45% {
+          background-color: blue;
+        }
+        60% {
+          background-color: purple;
+        }
+        75% {
+          background-color: pink;
+        }
+        90% {
+          background-color: brown;
+        }
+        100% {
+          background-color: red;
+        }
+         
+           }
+                               
